@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://lazy:lazy123@cluster0-ye9iv.mongodb.net/testDB",
+	"secret": "nothing"
+}
